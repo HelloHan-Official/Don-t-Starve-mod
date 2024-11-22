@@ -1,4 +1,4 @@
-# Don-t-Starve-mod
+# Don-t-Starvemod-shrry
 饥荒单机版人物mod开发
 Winterbloom Sherry (冬日绽放)
 
